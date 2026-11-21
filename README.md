@@ -11,6 +11,12 @@
 [![Pure SVG](https://img.shields.io/badge/Rendering-Pure%20SVG-orange.svg)]()
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen.svg)]()
 
+### 🌐 Live Website
+
+Check out the deployed site here: **[View Live Website]([https://your-website-url.com](https://intelligent-delivery-route-optimiza.vercel.app/))** 
+
+*Hosted on [Vercel]*
+
 ---
 
 ## 📌 Executive Summary & Research Motivation
