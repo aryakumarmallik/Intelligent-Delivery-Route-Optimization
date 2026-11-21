@@ -13,7 +13,7 @@
 
 ### 🌐 Live Website
 
-Check out the deployed site here: **(https://intelligent-delivery-route-optimiza.vercel.app/)** 
+Check out the deployed site here: https://intelligent-delivery-route-optimization-24noyhgew-devakm.vercel.app
 
 *Hosted on [Vercel]*
 
